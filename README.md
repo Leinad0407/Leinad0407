@@ -14,8 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-%20?style=flat&logo=python&logoColor=%230F0F11&logoSize=%233776AB&labelColor=%23F6EF60)
 ![Static Badge](https://img.shields.io/badge/Selenium-%20?style=flat&logo=selenium&logoColor=%2343B02A&logoSize=%233776AB&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/DotNet-%20?style=flat&logo=dotnet&logoColor=%23512BD4&logoSize=%233776AB&labelColor=%23FFFFFF)
-
-
+![Static Badge](https://img.shields.io/badge/Postman-%20?style=flat&logo=postman&logoColor=%23FF6C37&labelColor=black)
 
 ### Contactame:
 🔗: [www.linkedin.com/in/daniel-aguilar-mejía-qa](https://www.linkedin.com/in/daniel-aguilar-mej%C3%ADa-qa/)
