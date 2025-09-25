@@ -1,10 +1,11 @@
-# Hola! 👋
+# Hola soy Daniel. ¡Un gusto conocerte! 👋
 
 **Leinad0407/Leinad0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Soy desarrollador de software con 2 años de experiencia en frontend y backen. Actualmente terminé un bootcamp con el propósito de convertirme en Ingeniero de pruebas de software y del cual ya he realizado algunos proyectos.  
+## Sobre mi: 
+###Soy desarrollador de software con 2 años de experiencia en frontend y backen. Actualmente terminé un bootcamp con el propósito de convertirme en Ingeniero de pruebas de software y del cual ya he realizado algunos proyectos.  
 
-### Skills:
+## Skills:
 
 ![Static Badge](https://img.shields.io/badge/Typescript-%20?style=flat&logo=typescript&logoColor=%233178C6&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Html-%20?style=flat&logo=html5&logoColor=%23E34F26&labelColor=black)
