@@ -3,7 +3,7 @@
 **Leinad0407/Leinad0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Sobre mi: 
-###Soy desarrollador de software con 2 años de experiencia en frontend y backen. Actualmente terminé un bootcamp con el propósito de convertirme en Ingeniero de pruebas de software y del cual ya he realizado algunos proyectos.  
+### Soy desarrollador de software con 2 años de experiencia en frontend y backen. Actualmente terminé un bootcamp con el propósito de convertirme en Ingeniero de pruebas de software y del cual ya he realizado algunos proyectos.  
 
 ## Skills:
 
